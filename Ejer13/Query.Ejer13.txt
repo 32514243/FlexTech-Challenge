@@ -1,0 +1,8 @@
+Ejer 13
+
+SELECT "age" AS edad, count ("age") AS "repeticiones"
+FROM "Ejer 13"
+WHERE "age" = 21 
+
+
+21	3

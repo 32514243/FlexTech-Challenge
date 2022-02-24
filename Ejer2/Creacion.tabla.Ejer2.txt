@@ -1,0 +1,5 @@
+CREATE TABLE "Ejer2" (
+	"DivisionId"	INTEGER NOT NULL,
+	"Year"	INTEGER NOT NULL,
+	"Revenue"	INTEGER NOT NULL
+);

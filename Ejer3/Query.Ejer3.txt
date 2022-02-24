@@ -1,0 +1,17 @@
+Ejer 3
+
+SELECT *, CASE
+WHEN "Year" < 1700 THEN "17"
+WHEN "Year" <1800 THEN "18"
+WHEN "Year" <1900 THEN "19"
+WHEN "Year" <2000 THEN "21"
+ELSE "21"
+END AS siglo
+FROM "Ejer 3"
+
+1	1776	18
+2	2001	21
+3	1643	17
+4	1865	19
+5	1969	21
+

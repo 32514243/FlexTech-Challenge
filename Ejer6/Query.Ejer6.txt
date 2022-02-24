@@ -1,0 +1,6 @@
+Ejer 6
+SELECT*, "¡hola Bob! ¿como estas hoy?" AS saludo
+FROM "Ejer 6"
+WHERE id=1
+
+1	Bob	¡hola Bob! ¿como estas hoy?

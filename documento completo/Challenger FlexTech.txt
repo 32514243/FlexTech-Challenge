@@ -1,0 +1,183 @@
+Ejer 1
+SELECT "Values" * -1 * 1
+FROM "Ejer 1"
+
+56
+-76
+84
+-96
+47
+
+Ejer 2
+
+SELECT * 
+FROM "Ejer2"
+WHERE "Year" = 2021 AND "Revenue" > 1
+
+1	2021	40
+4	2021	50
+
+Ejer 3
+
+SELECT *, CASE
+WHEN "Year" < 1700 THEN "17"
+WHEN "Year" <1800 THEN "18"
+WHEN "Year" <1900 THEN "19"
+WHEN "Year" <2000 THEN "21"
+ELSE "21"
+END AS siglo
+FROM "Ejer 3"
+
+1	1776	18
+2	2001	21
+3	1643	17
+4	1865	19
+5	1969	21
+
+
+
+Ejer4
+
+SELECT *, CASE
+   WHEN "Values" % 2 = 0 THEN "par"
+ELSE "impar"
+END AS "par o impar"
+  
+FROM "Ejer 4"  
+
+1	4	par
+2	11	impar
+3	57	impar
+4	24	par
+5	47	impar
+
+
+
+Ejer 5
+
+SELECT *, count(*)AS edad
+FROM "Ejer 5"
+
+GROUP BY age
+
+3	Jill	18	1
+2	Sam	19	2
+6	Jess	20	1
+1	Bob	21	3
+
+Ejer 6
+SELECT*, "¡hola Bob! ¿como estas hoy?" AS saludo
+FROM "Ejer 6"
+WHERE id=1
+
+1	Bob	¡hola Bob! ¿como estas hoy?
+
+Ejer 7 
+SELECT *
+
+FROM "Ejer 7"
+ORDER BY "Amount sold" DESC 
+LIMIT 5
+6	Knife	78
+8	Glass	64
+3	Plate	46
+5	Spoon	45
+4	Fork	34
+
+Ejer 8
+SELECT "name"
+FROM "Ejer 8"
+WHERE "country" != "Canada" AND "country" != "United States"
+
+Bob Smith
+Jim Jones
+Sam White
+Will Wilson
+Wilson Scott
+Scott Daniels
+
+Ejer 9
+
+SELECT "age"
+FROM "Ejer 9"
+GROUP BY "age"
+HAVING count(*) = 1
+
+18
+20
+
+Ejer 10
+
+SELECT sum("age") AS suma
+FROM "Ejer 10"
+
+139
+
+Ejer 11
+
+SELECT *
+FROM "Ejer 11"
+JOIN "Ejer 11.1" ON "Ejer 11.1"."id" = "Ejer 11"."idNac"
+
+1	1	Bob	21	1	Argentino
+2	1	Sam	19	1	Argentino
+3	2	Jill	18	2	Italiano
+4	3	Jim	21	3	Español
+5	4	Sally	19	4	Aleman
+6	2	Jess	20	2	Italiano
+7	3	Will	21	3	Español
+
+Ejer 12
+
+SELECT *
+FROM "Ejer 12"
+LEFT OUTER JOIN "Ejer 12.1" ON "Ejer 12.1"."id" = "Ejer 12"."id"
+
+
+1	1	Bob	21	1	1/10/23
+2	1	Sam	19	2	22/5/25
+3	2	Jill	18		
+4	3	Jim	21		
+5	4	Sally	19	5	22/1/23
+6	2	Jess	20	6	15/6/28
+7	3	Will	21		
+
+
+Ejer 13
+
+SELECT "age" AS edad, count ("age") AS "repeticiones"
+FROM "Ejer 13"
+WHERE "age" = 21 
+
+
+21	3
+
+Ejer 14
+
+SELECT datepart("dw",date("02/02/2022"))
+
+
+Ejer 15
+
+DELETE FROM "Ejer 15" 
+WHERE "id" = 1
+
+2	1	Sam	19
+3	2	Jill	18
+4	3	Jim	21
+5	4	Sally	19
+6	2	Jess	20
+7	3	Will	21
+
+La manera correcta seria la siguiente pero el programa nose porque no me la toma:
+
+DELETE "Ejer 15", "Ejer 15.1"
+FROM "Ejer 15"
+AFTER JOIN "Ejer 15.1" ON "Ejer 15.1"."id1" = "Ejer 15"."id"
+WHERE "id" = 1
+
+
+
+
+
+

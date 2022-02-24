@@ -1,0 +1,11 @@
+Ejer 8
+SELECT "name"
+FROM "Ejer 8"
+WHERE "country" != "Canada" AND "country" != "United States"
+
+Bob Smith
+Jim Jones
+Sam White
+Will Wilson
+Wilson Scott
+Scott Daniels

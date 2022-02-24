@@ -1,0 +1,9 @@
+Ejer 9
+
+SELECT "age"
+FROM "Ejer 9"
+GROUP BY "age"
+HAVING count(*) = 1
+
+18
+20

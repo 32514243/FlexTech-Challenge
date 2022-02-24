@@ -1,0 +1,8 @@
+Ejer 2
+
+SELECT * 
+FROM "Ejer2"
+WHERE "Year" = 2021 AND "Revenue" > 1
+
+1	2021	40
+4	2021	50

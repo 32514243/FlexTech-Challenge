@@ -1,0 +1,13 @@
+Ejer 11
+
+SELECT *
+FROM "Ejer 11"
+JOIN "Ejer 11.1" ON "Ejer 11.1"."id" = "Ejer 11"."idNac"
+
+1	1	Bob	21	1	Argentino
+2	1	Sam	19	1	Argentino
+3	2	Jill	18	2	Italiano
+4	3	Jim	21	3	Español
+5	4	Sally	19	4	Aleman
+6	2	Jess	20	2	Italiano
+7	3	Will	21	3	Español

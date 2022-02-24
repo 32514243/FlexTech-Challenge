@@ -1,0 +1,6 @@
+CREATE TABLE "Ejer 11" (
+	"id"	INTEGER NOT NULL,
+	"idNac"	INTEGER NOT NULL,
+	"name"	INTEGER NOT NULL,
+	"age"	INTEGER NOT NULL
+);

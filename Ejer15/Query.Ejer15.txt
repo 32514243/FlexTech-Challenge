@@ -1,0 +1,18 @@
+Ejer 15
+
+DELETE FROM "Ejer 15" 
+WHERE "id" = 1
+
+2	1	Sam	19
+3	2	Jill	18
+4	3	Jim	21
+5	4	Sally	19
+6	2	Jess	20
+7	3	Will	21
+
+La manera correcta seria la siguiente pero el programa nose porque no me la toma:
+
+DELETE "Ejer 15", "Ejer 15.1"
+FROM "Ejer 15"
+AFTER JOIN "Ejer 15.1" ON "Ejer 15.1"."id1" = "Ejer 15"."id"
+WHERE "id" = 1

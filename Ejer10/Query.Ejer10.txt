@@ -1,0 +1,6 @@
+Ejer 10
+
+SELECT sum("age") AS suma
+FROM "Ejer 10"
+
+139

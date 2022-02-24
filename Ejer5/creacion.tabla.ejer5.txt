@@ -1,0 +1,5 @@
+CREATE TABLE "Ejer 5" (
+	"id"	INTEGER NOT NULL,
+	"name"	INTEGER NOT NULL,
+	"age"	INTEGER NOT NULL
+);

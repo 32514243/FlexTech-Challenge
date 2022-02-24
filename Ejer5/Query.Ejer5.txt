@@ -1,0 +1,11 @@
+Ejer 5
+
+SELECT *, count(*)AS edad
+FROM "Ejer 5"
+
+GROUP BY age
+
+3	Jill	18	1
+2	Sam	19	2
+6	Jess	20	1
+1	Bob	21	3

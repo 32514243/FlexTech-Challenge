@@ -1,0 +1,4 @@
+CREATE TABLE "Ejer 15.1" (
+	"id1"	INTEGER NOT NULL,
+	"Fvto"	INTEGER NOT NULL
+);

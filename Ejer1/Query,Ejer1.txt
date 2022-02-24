@@ -1,0 +1,9 @@
+Ejer 1
+SELECT "Values" * -1 * 1
+FROM "Ejer 1"
+
+56
+-76
+84
+-96
+47

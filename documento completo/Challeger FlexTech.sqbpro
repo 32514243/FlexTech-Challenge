@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/franc/OneDrive/Escritorio/Challeger FlexTech.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="884"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,7:mainEjer 15"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Ejer 1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="51"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 10" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/><column index="3" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 11" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="42"/><column index="3" value="43"/><column index="4" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 11. 1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="55"/><column index="3" value="43"/><column index="4" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 11.1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="62"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 11.2" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 12" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="42"/><column index="3" value="43"/><column index="4" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 12.1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 13" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/><column index="3" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 15" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="42"/><column index="3" value="43"/><column index="4" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 15.1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 3" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="40"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 4" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="51"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 5" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/><column index="3" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 6" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 7" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/><column index="3" value="89"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 8" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/><column index="3" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer 9" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="43"/><column index="3" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Ejer2" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="70"/><column index="2" value="40"/><column index="3" value="165"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">SELECT &quot;Values&quot; * -1 * 1
+FROM &quot;Ejer 1&quot;
+</sql><sql name="SQL 2">SELECT * 
+FROM &quot;Ejer2&quot;
+WHERE &quot;Year&quot; = 2021 AND &quot;Revenue&quot; &gt; 1
+ </sql><sql name="SQL 3">SELECT *, CASE
+WHEN &quot;Year&quot; &lt; 1700 THEN &quot;17&quot;
+WHEN &quot;Year&quot; &lt;1800 THEN &quot;18&quot;
+WHEN &quot;Year&quot; &lt;1900 THEN &quot;19&quot;
+WHEN &quot;Year&quot; &lt;2000 THEN &quot;21&quot;
+ELSE &quot;21&quot;
+END AS siglo
+FROM &quot;Ejer 3&quot;</sql><sql name="SQL 4">SELECT *, CASE
+   WHEN &quot;Values&quot; % 2 = 0 THEN &quot;par&quot;
+ELSE &quot;impar&quot;
+END AS &quot;par o impar&quot;
+  
+FROM &quot;Ejer 4&quot;  </sql><sql name="SQL 5">SELECT *, count(*)AS edad
+FROM &quot;Ejer 5&quot;
+
+GROUP BY age</sql><sql name="SQL 6">SELECT*, &quot;¡hola Bob! ¿como estas hoy?&quot; AS saludo
+FROM &quot;Ejer 6&quot;
+WHERE id=1</sql><sql name="SQL 7">SELECT *
+
+FROM &quot;Ejer 7&quot;
+ORDER BY &quot;Amount sold&quot; DESC 
+LIMIT 5
+
+
+
+
+
+
+
+
+
+</sql><sql name="SQL 8">SELECT &quot;name&quot;
+FROM &quot;Ejer 8&quot;
+WHERE &quot;country&quot; != &quot;Canada&quot; AND &quot;country&quot; != &quot;United States&quot;</sql><sql name="SQL 9">SELECT &quot;age&quot;
+FROM &quot;Ejer 9&quot;
+GROUP BY &quot;age&quot;
+HAVING count(*) = 1
+
+
+</sql><sql name="SQL 10">SELECT sum(&quot;age&quot;) AS suma
+FROM &quot;Ejer 10&quot;</sql><sql name="SQL 11">SELECT *
+FROM &quot;Ejer 11&quot;
+JOIN &quot;Ejer 11.1&quot; ON &quot;Ejer 11.1&quot;.&quot;id&quot; = &quot;Ejer 11&quot;.&quot;idNac&quot;
+
+
+
+
+
+</sql><sql name="SQL 12">SELECT *
+FROM &quot;Ejer 12&quot;
+LEFT OUTER JOIN &quot;Ejer 12.1&quot; ON &quot;Ejer 12.1&quot;.&quot;id&quot; = &quot;Ejer 12&quot;.&quot;id&quot;</sql><sql name="SQL 13">SELECT &quot;age&quot; AS edad, count (&quot;age&quot;) AS &quot;repeticiones&quot;
+FROM &quot;Ejer 13&quot;
+WHERE &quot;age&quot; = 21 </sql><sql name="SQL 14">SELECT datepart(&quot;dw&quot;,date(&quot;02/02/2022&quot;))</sql><sql name="SQL 15">
+DELETE 
+FROM &quot;Ejer 15&quot;
+
+WHERE &quot;id&quot;=1
+
+
+ </sql><sql name="SQL 15.1">DELETE &quot;Ejer 15&quot;, &quot;Ejer 15.1&quot;
+FROM &quot;Ejer 15&quot;
+AFTER JOIN &quot;Ejer 15.1&quot; ON &quot;Ejer 15.1&quot;.&quot;id1&quot; = &quot;Ejer 15&quot;.&quot;id&quot;
+WHERE &quot;id&quot; = 1
+</sql><current_tab id="13"/></tab_sql></sqlb_project>

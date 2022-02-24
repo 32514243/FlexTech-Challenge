@@ -1,0 +1,15 @@
+Ejer4
+
+SELECT *, CASE
+   WHEN "Values" % 2 = 0 THEN "par"
+ELSE "impar"
+END AS "par o impar"
+  
+FROM "Ejer 4"  
+
+1	4	par
+2	11	impar
+3	57	impar
+4	24	par
+5	47	impar
+
